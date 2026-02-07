@@ -1,0 +1,5 @@
+{
+  "name": "GridChain Simulator",
+  "description": "A comprehensive Microgrid and Blockchain simulator. Visualize solar generation, battery storage, and grid interactions while managing a secure, tamper-evident blockchain ledger. Features real-world weather data integration via Open-Meteo, interactive maps, and manual block tampering simulation.",
+  "requestFramePermissions": []
+}
