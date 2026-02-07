@@ -1,6 +1,6 @@
 # GridChain Simulator
 
-GridChain Simulator is a browser-based microgrid simulation with a tamper-evident blockchain ledger. It models solar generation, battery behavior, grid exchange, and records state transitions as blocks. The UI includes a user/admin login, admin governance console, real-time weather integration, and a map-based location selector.
+GridChain Simulator is a browser-based microgrid simulation with a tamper-evident blockchain ledger. It models solar generation, battery behavior, grid exchange, and records state transitions as blocks. The UI includes a user/admin login, admin governance console, real-time weather integration, and a map-based location selector. The project aims in teaching about how the block chain technology works and how Micro grid transitions take place. Only for educational purpose.
 
 ## Features
 
